@@ -1,0 +1,44 @@
+{
+  "countries": [
+    {
+      "label": "India",
+      "value": "india"
+    },
+    {
+      "label": "Russia",
+      "value": "russia"
+    },
+    {
+      "label": "France",
+      "value": "france"
+    },
+    {
+      "label": "China",
+      "value": "china"
+    },
+    {
+      "label": "Pakistan",
+      "value": "pakistan"
+    },
+    {
+      "label": "Congo",
+      "value": "congo"
+    },
+    {
+      "label": "England",
+      "value": "england"
+    },
+    {
+      "label": "Poland",
+      "value": "poland"
+    },
+    {
+      "label": "Australia",
+      "value": "australia"
+    },
+    {
+      "label": "Sri Lanka",
+      "value": "sri Lanka"
+    }
+  ]
+}
